@@ -1,0 +1,7 @@
+farah*11*Cardiology
+ash*22*Cardiology
+aya*33*Radiology
+smasimoo*55*Dermatology
+ashrakat*10*Neurology
+ahmad*123*Dermatology
+sara*6*Neurology
